@@ -1,4 +1,4 @@
-NEXTPNR_XILINX_DIR ?= /snap/openxc7/current/opt/nextpnr-xilinx
+NEXTPNR_XILINX_DIR ?= /nextpnr-xilinx/xilinx
 NEXTPNR_XILINX_PYTHON_DIR ?= ${NEXTPNR_XILINX_DIR}/python
 PRJXRAY_DB_DIR ?= ${NEXTPNR_XILINX_DIR}/external/prjxray-db
 
